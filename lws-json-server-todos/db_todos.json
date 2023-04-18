@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "text": "Hello World",
+      "completed": false,
+      "id": 1,
+      "color": "red"
+    },
+    {
+      "text": "bhjhjbhbhbhj",
+      "completed": false,
+      "id": 2,
+      "color": "red"
+    },
+    {
+      "text": "jknbhbjkbjk",
+      "completed": false,
+      "id": 3,
+      "color": "green"
+    }
+  ]
+}
